@@ -1,7 +1,7 @@
 {
-  "name": "tailwinty",
+  "name": "top-fiddy-github",
   "version": "1.0.0",
-  "description": "Personal template created to use tailwindcss and eleventy static site generator",
+  "description": "Small project for api github",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf dist",
